@@ -10,7 +10,7 @@ The project focused on analyzing **workforce data, employee readiness, job requi
 
 ## 🔒 Privacy Notice
 
-Some project deliverables contain names and information associated with the client organization. These materials are shared for portfolio and educational purposes only. Please do not reproduce, distribute, or use the information outside of this project context.
+Project deliverables have been excluded from this public repository because they contain client and stakeholder names. The repository provides a high-level overview of the project, analysis approach, recommendations, and my contributions while protecting confidential information.
 
 ---
 
