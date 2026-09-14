@@ -136,20 +136,25 @@ Based on the analysis, the team developed recommendations to strengthen the City
 
 ## 📁 Project Deliverables
 
-The project produced several deliverables to support the City's succession planning strategy:
+The project included the following deliverables:
 
-- 📊 Workforce Analysis Spreadsheets
-- 👥 Employee Readiness Analysis
-- 🛣️ Career Pathway Documentation
-- 🌱 Succession Planning Framework
-- ⚠️ Risk & Gap Assessment
-- 🏙️ Municipal Benchmarking Research
-- 💡 Strategic Recommendations
-- 📄 Final Consulting Report
-- 🎤 Final Presentation
+| 📄 Deliverable | 📝 Description |
+|---|---|
+| 📊 Workforce Analysis | Workforce and employee readiness analysis |
+| 👥 Employee Readiness | Evaluation of potential successors and development status |
+| 🛣️ Career Pathways | Career and promotion pathway analysis |
+| ⚠️ Risk Assessment | Succession and workforce risk analysis |
+| 📚 Benchmarking | Research and comparison of municipal succession practices |
+| 📄 Final Report | Complete consulting analysis and recommendations |
+| 🎤 Final Presentation | Final project presentation and key findings |
 
 ---
 
+### 📂 Project Files
+
+All publicly shareable project deliverables are available in the repository.
+
+> **Note:** Certain employee-level or sensitive information has been excluded or anonymized to maintain confidentiality.
 ## 🛠️ Tools & Skills
 
 ### 💻 Tools
@@ -221,4 +226,4 @@ As the **Project Manager**, I combined **team leadership and analytical problem-
 
 ## ⭐ Skills Demonstrated
 
-`Project Management` `Business Analysis` `Workforce Analytics` `Data Analysis` `Risk Analysis` `Succession Planning` `Microsoft Excel` `Data Visualization` `Stakeholder Communication` `Strategic Research` `Team Leadership` `Presentation`and analytical problem-solving** to transform workforce data and research into actionable recommendations for a real-world organizational challenge.
+`Project Management` `Business Analysis` `Workforce Analytics` `Data Analysis` `Risk Analysis` `Succession Planning` `Microsoft Excel` `Data Visualization` `Stakeholder Communication` `Strategic Research` `Team Leadership` `Presentation`
